@@ -1,4 +1,4 @@
- SEO Bot
+ SEO Bot Powerd By Maweb3
 
 Professional SEO automation tool for WordPress
 
