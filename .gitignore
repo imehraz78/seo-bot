@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.seo_bot_config/
+*.html
+*.json
